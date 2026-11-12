@@ -1,0 +1,6 @@
+{
+  "name": "lively-backend",
+  "description": "High-scale, secure voting, polling, and live debate backend architecture with Durable Objects, real-time results, and cryptographic accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
